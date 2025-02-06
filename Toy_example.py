@@ -1,3 +1,6 @@
+import math
+import random
+
 #Toy example
 #Generate nodes
 M_7 = 158753814 #This is the known size of the 7x7 grid metagraph

@@ -51,4 +51,4 @@ def seek_M(L,N):
     else:
         return a
 
-print((seek_M(average_L,6*10**(-6)*M_7)-M_7)/M_7)
+print((seek_M(average_L,6*10**(-6)*M_7)-M_7)/M_7) #This gives us the % error of our estimate of M.
